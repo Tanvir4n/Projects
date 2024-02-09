@@ -854,7 +854,7 @@ void viewDevelopers(){
     slowDevTxt(s);
     s = "\t2. Name: Abdur Rahman\n\t   Student ID: 0242310005101413\n\t   Phone No. 01306661998\n\t   Mail ID: rahman23105101413@diu.edu.bd\n\n";
     slowDevTxt(s);
-    s = "\t3. Name: Md.Tanvir Hasan\n\t   Student ID: 0242310005101461\n\t   Phone No. 01724757410\n\t   Mail ID: hasan23105101461@diu.edu.bd\n\n";
+    s = "\t3. Name: Md.Tanvir Hasan\n\t   Student ID: 024231000510\n\t   Phone No. 01724757410\n\t   Mail ID: hasan23105101461@diu.edu.bd\n\n";
     slowDevTxt(s);
     s = "\t4. Name: Ummay Jubaiya Moushi\n\t   Student ID: 0242310005101887\n\t   Phone No. 01887173670\n\t   Mail ID: moushi2305101887@diu.edu.bd\n\n";
     slowDevTxt(s);
