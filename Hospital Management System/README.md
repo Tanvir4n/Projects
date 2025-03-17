@@ -1,4 +1,4 @@
-configure jcalander
+# configure jcalander
 
 
 # Download Connector/J
