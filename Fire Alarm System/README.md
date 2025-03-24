@@ -24,7 +24,7 @@ A fire hazard is detected, triggering the alarm and emergency response.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/fire-alarm-system.git
+   git clone https://github.com/tanvir4n/fire-alarm-system.git
    ```
 2. Follow the setup instructions in the project documentation.
 
