@@ -1,0 +1,33 @@
+For CMD
+flex flex.l
+bison -d bison.y
+gcc -o info_parser lex.yy.c bison.tab.c
+info_parser.exe < input.txt
+
+For windows powershell 
+flex flex.l
+bison -d bison.y
+gcc -o info_parser lex.yy.c bison.tab.c
+Get-Content input.txt | ./info_parser.exe
+
+Input:
+my name is Tanvir Hasan.
+my age is 22.
+my address is Dinajpur, Dhaka, Bangladesh.
+my educational background is: BSc in CSE at Daffodil International University.
+my technical skills are: C, Python, Java, Assembly Language.
+my soft skills are: Teamwork, Problem Solving, Time Management.
+my projects are: Hospital Management System, Fire Alarm and Emergency System, Battery Level Indicator, Student Information Management System, DHCP DNS Server.
+my achievements are: A plus felicitation, Best Project Award.
+my hobbies are: to learn things, Reading Tech Blogs.
+
+Output:
+---- Extracted CV Information ----
+Name: Tanvir Hasan
+Address: Dinajpur, Dhaka, Bangladesh
+Education: BSc in CSE at Daffodil International University
+Technical Skills: C, Python, Java, Assembly Language
+Soft Skills: Teamwork, Problem Solving, Time Management
+Projects: Hospital Management System, Fire Alarm and Emergency System, Battery Level Indicator, Student Information Management System, DHCP DNS Server
+Achievements: A plus felicitation, Best Project Award
+Hobbies: to learn things, Reading Tech Blogs
