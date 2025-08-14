@@ -1,0 +1,9 @@
+my name is Shovon.
+my age is 24.
+my address is Khulna, Dhaka, Bangladesh.
+my educational background is: BSc in CSE at Daffodil International University.
+my technical skills are: C, Python, Java, Assembly Language.
+my soft skills are: Teamwork, Problem Solving, Time Management.
+my projects are: Hospital Management System, Fire Alarm and Emergency System, Battery Level Indicator, Student Information Management System, DHCP DNS Server.
+my achievements are: A plus felicitation, Best Project Award.
+my hobbies are: to learn things, Reading Tech Blogs.
